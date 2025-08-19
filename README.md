@@ -92,4 +92,21 @@ This is a full-stack food ordering web application built using the MERN stack (M
   Access the customer-facing app at http://localhost:5173. Access the admin app at http://localhost:5174. Register as a new user or log in with existing credentials. Browse the menu, add items to the cart, and place an order. Pay using dummy visa card Use the admin panel to manage orders, menu items.
 
   ## Screenshots
-  
+
+## API Documentation
+The API endpoints for the backend can be documented using tools like Postman or Swagger. Include endpoints for user authentication, menu items, orders, and more.
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code style and include relevant tests.
+
+## Contact
+For any questions or suggestions, feel free to contact me.
+
+Happy coding!
+
+Feel free to customize this template according to your specific project details and requirements.
+
+
+
+
+
