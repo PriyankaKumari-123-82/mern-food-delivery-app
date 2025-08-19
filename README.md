@@ -36,5 +36,6 @@ This is a full-stack food ordering web application built using the MERN stack (M
   - MongoDB
  
   ### Clone the Repository ###
-  ''' git clone 
-    cd mern-food-delivery-app '''
+   git clone https://github.com/PriyankaKumari-123-82/mern-food-delivery-app.git
+  
+    cd mern-food-delivery-app 
