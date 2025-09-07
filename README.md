@@ -5,7 +5,6 @@
 - Technologies Used
 - Installation
 - Usage
-- Screenshots
 - API Documentation
 - Contributing
 - Contact
